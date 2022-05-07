@@ -5,9 +5,8 @@ I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer currently working as 
 
 ## MY SKILLS
  FRONT-END         BACK-END
-|---------------|----------------|-----------------------------------------|
-|               |                |                                         |
-|               |                |                                         |
+|:---------------:|:----------------:|:-----------------------------------------:|
+
 
 
 
