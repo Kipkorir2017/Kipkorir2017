@@ -2,7 +2,6 @@
 I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer currently working as Freelancer
 
 <img src="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk" height=200px width=400px>
-
 <!--
 **Kipkorir2017/Kipkorir2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
