@@ -9,8 +9,8 @@ I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer currently working as 
 
  🔭 I’m currently working on ... My own Projects using Django and ReactJs
 
-- 🌱 I’m currently learning New languages such as Golang among others
-- 📫 How to reach me: ... Contact me through pkobenj41@gmail.com
-<- 😄 Pronouns: ... ->
+🌱 I’m currently learning New languages such as Golang among others
+📫 How to reach me: ... Contact me through pkobenj41@gmail.com
+<-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: normally yelling when I solve a problem  
 
