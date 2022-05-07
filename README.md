@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm TONUI KIPKORIR BENJAMIN, Full-Stack Software Developer currently working as Freelancer
+I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer currently working as Freelancer
 
 <!--
 **Kipkorir2017/Kipkorir2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
