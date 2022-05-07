@@ -5,8 +5,12 @@ I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer currently working as 
 
 ## MY SKILLS
           
-|:FRONT-END:|:BACK-END:|:-----------------------------------------:|
-
+|    :FRONT-END:      | :BACK-END:     |:DevOps:|
+       * HTML5          * Python        * PostgreSQL
+       * CSS3           * Flask         * MYSQL
+       * Angular        * Django        * MONGODB
+       * ReactJs
+       * JS
 
 
 
