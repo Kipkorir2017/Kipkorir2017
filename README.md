@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer currently working as Freelancer
+I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer 
 
 <img src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP" height=200px width=400px>
 
