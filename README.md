@@ -6,7 +6,7 @@ I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer currently working as 
 ## MY SKILLS
           
 | :FRONT-END: | :BACK-END:     |:DevOps:   |
-|-------------| | -------   |
+|-------------|--------------- | -------   |
 |  HTML       |  Python        | MySQL     |
 |  CSS3       |  Django        | PostgreSQL|
 |  Angular    |  Flask         | MongoDB   | 
