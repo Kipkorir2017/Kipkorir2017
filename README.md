@@ -3,7 +3,7 @@ I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer
 
 
 <div align="center">
-<img src="https://pbs.twimg.com/profile_images/931056845661331456/n8_a256l_400x400.jpg" align="center" style="width: 100%" />
+<img src="https://image.shutterstock.com/image-vector/learn-be-fullstack-web-developer-260nw-1015957603.jpg" align="center" style="width: 100%" />
 </div>  
 
 
