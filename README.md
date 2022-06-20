@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer 
 
-<img src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP" height=200px width=400px>
+<!-- <img src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP" height=200px width=400px> -->
 <div align="center">
-<img src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP" align="center" style="width: 100%" />
+<img src="https://www.kindpng.com/picc/m/4-42757_full-stack-developers-developer-png-transparent-png.png" align="center" style="width: 100%" />
 </div>  
 
 
