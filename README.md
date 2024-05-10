@@ -18,7 +18,6 @@ I'm Tonui Kipkorir Benjamin, Full-Stack Software Developer
 |  ReactJs    |                |           |
 
 
-* 🔭 I’m currently working on my own Projects
 
 <!-- * 🌱 I’m currently learning Golang  -->
 * 📫 Contact me through pkobenj41@gmail.com
